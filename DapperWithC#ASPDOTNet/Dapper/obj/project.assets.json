@@ -1243,11 +1243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Tranning\\DapperWithC#ASPDOTNet\\Dapper\\DapperProject.csproj",
+      "projectUniqueName": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\DapperProject.csproj",
       "projectName": "DapperProject",
-      "projectPath": "C:\\Tranning\\DapperWithC#ASPDOTNet\\Dapper\\DapperProject.csproj",
+      "projectPath": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\DapperProject.csproj",
       "packagesPath": "C:\\Users\\PDLG IT\\.nuget\\packages\\",
-      "outputPath": "C:\\Tranning\\DapperWithC#ASPDOTNet\\Dapper\\obj\\",
+      "outputPath": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

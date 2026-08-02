@@ -109,6 +109,52 @@ namespace DapperProject.Controllers
             return View(product);
         }
 
+        public ActionResult GetByCategoryId(int categoryId)
+        {
+            var product = _productService.GetByCategoryId(categoryId);
+            return View("Index",product);
+        }
+
+        //CRUD Operation with Dapper
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(Product product)
+        {
+            _productService.Create(product);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Edit(int id)
+        {
+            var product = _productService.GetById(id);
+            return View(product);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Product product)
+        {
+            _productService.Edit(product);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Delete(int id)
+        {
+            var product = _productService.GetById(id);
+            return View(product);
+
+        }
+
+        [HttpPost]
+        public IActionResult DeleteProduct(Product product)
+        {
+            _productService.Delete(product.ProductID);
+            return RedirectToAction("Index");
+        }    
 
     }
 }
