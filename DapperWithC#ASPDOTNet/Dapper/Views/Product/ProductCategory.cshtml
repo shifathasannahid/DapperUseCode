@@ -1,0 +1,41 @@
+﻿@model DapperProject.Models.ProductCategoryVM
+
+<h2>Products</h2>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+    </tr>
+
+    @foreach (var item in Model.Products)
+    {
+        <tr>
+            <td>@item.ProductID</td>
+            <td>@item.ProductName</td>
+        </tr>
+    }
+
+</table>
+
+<hr />
+
+<h2>Categories</h2>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+    </tr>
+
+    @foreach (var item in Model.Categories)
+    {
+        <tr>
+            <td>@item.CategoryID</td>
+            <td>@item.CategoryName</td>
+        </tr>
+    }
+
+</table>

@@ -44,5 +44,10 @@ namespace DapperProject.Services
         {
            _productRepo.Edit(product);
         }
+
+        public ProductCategoryVM GetProductsAndCategories()
+        {
+            return _productRepo.GetProductsAndCategories();
+        }
     }
 }

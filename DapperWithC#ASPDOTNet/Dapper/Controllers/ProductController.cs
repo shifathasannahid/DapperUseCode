@@ -1,9 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using DapperProject.Models;
-using Microsoft.Data.SqlClient;
-using Dapper;
-using System.Threading.Tasks;
+﻿using DapperProject.Models;
 using DapperProject.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace DapperProject.Controllers
 {
@@ -112,7 +109,7 @@ namespace DapperProject.Controllers
         public ActionResult GetByCategoryId(int categoryId)
         {
             var product = _productService.GetByCategoryId(categoryId);
-            return View("Index",product);
+            return View("Index", product);
         }
 
         //CRUD Operation with Dapper
@@ -154,7 +151,13 @@ namespace DapperProject.Controllers
         {
             _productService.Delete(product.ProductID);
             return RedirectToAction("Index");
-        }    
+        }
+
+        public IActionResult ProductCategory()
+        {
+            var data = _productService.GetProductsAndCategories();
+            return View(data);
+        }
 
     }
 }

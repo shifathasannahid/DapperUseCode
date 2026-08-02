@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|c:\\tranning\\dapperusecode\\dapperwithc#aspdotnet\\dapper\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|solutionrelative:dapper\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|c:\\tranning\\dapperusecode\\dapperwithc#aspdotnet\\dapper\\views\\product\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|solutionrelative:dapper\\views\\product\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|c:\\tranning\\dapperusecode\\dapperwithc#aspdotnet\\dapper\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|solutionrelative:dapper\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|c:\\tranning\\dapperusecode\\dapperwithc#aspdotnet\\dapper\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|solutionrelative:dapper\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|c:\\tranning\\dapperusecode\\dapperwithc#aspdotnet\\dapper\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|solutionrelative:dapper\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|c:\\tranning\\dapperusecode\\dapperwithc#aspdotnet\\dapper\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|solutionrelative:dapper\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|c:\\tranning\\dapperusecode\\dapperwithc#aspdotnet\\dapper\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|solutionrelative:dapper\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|c:\\tranning\\dapperusecode\\dapperwithc#aspdotnet\\dapper\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|solutionrelative:dapper\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|c:\\tranning\\dapperusecode\\dapperwithc#aspdotnet\\dapper\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33D1832A-9A3B-4195-A726-C4B035386AAC}|Dapper\\DapperProject.csproj|solutionrelative:dapper\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategory.cshtml",
+              "DocumentMoniker": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Views\\Product\\ProductCategory.cshtml",
+              "RelativeDocumentMoniker": "Dapper\\Views\\Product\\ProductCategory.cshtml",
+              "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Views\\Product\\ProductCategory.cshtml*",
+              "RelativeToolTip": "Dapper\\Views\\Product\\ProductCategory.cshtml*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T05:47:52.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,22 +57,9 @@
               "RelativeDocumentMoniker": "Dapper\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Dapper\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-28T10:24:44.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Dapper\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Dapper\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAywJEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T10:29:51.44Z",
+              "WhenOpened": "2026-08-02T05:46:23.228Z",
               "EditorCaption": ""
             },
             {
@@ -78,61 +70,35 @@
               "RelativeDocumentMoniker": "Dapper\\Services\\ProductService.cs",
               "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Services\\ProductService.cs",
               "RelativeToolTip": "Dapper\\Services\\ProductService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwBkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAIAywDEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-28T04:31:33.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "Dapper\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Services\\IProductService.cs",
-              "RelativeToolTip": "Dapper\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T06:34:16.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductRepo.cs",
-              "DocumentMoniker": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Repo\\ProductRepo.cs",
-              "RelativeDocumentMoniker": "Dapper\\Repo\\ProductRepo.cs",
-              "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Repo\\ProductRepo.cs",
-              "RelativeToolTip": "Dapper\\Repo\\ProductRepo.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwCQAAAAFAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Dapper\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Dapper\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAswJ8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T05:33:55.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Dapper\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Dapper\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-28T09:07:42.242Z",
+              "WhenOpened": "2026-07-28T10:29:51.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Dapper\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "Dapper\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAADoAAAAAAAAAAADwv0IAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-28T06:36:57.657Z",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Dapper\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Tranning\\DapperUseCode\\DapperWithC#ASPDOTNet\\Dapper\\Services\\IProductService.cs",
+              "RelativeToolTip": "Dapper\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T06:34:16.774Z",
               "EditorCaption": ""
             }
           ]

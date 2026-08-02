@@ -15,5 +15,7 @@ namespace DapperProject.Repo
         void Edit(Product product);
 
         void Delete(int  id);
+
+        ProductCategoryVM GetProductsAndCategories();
     }
 }

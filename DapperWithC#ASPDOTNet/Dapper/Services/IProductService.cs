@@ -14,5 +14,7 @@ namespace DapperProject.Services
         void Edit(Product product);
 
         void Delete(int  id);
+
+        ProductCategoryVM GetProductsAndCategories();
     }
 }

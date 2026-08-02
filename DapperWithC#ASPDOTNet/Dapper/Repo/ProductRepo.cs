@@ -104,5 +104,25 @@ namespace DapperProject.Repo
             connection.Execute(sql, new { id = id });
         }
 
+        public ProductCategoryVM GetProductsAndCategories()
+        {
+            var sql = @"
+                Select * From Products;
+                Select * From Categories;";
+
+            var connection = new SqlConnection(_connectionString);
+
+            using var multiple = connection.QueryMultiple(sql);
+
+            var products = multiple.Read<Product>().ToList();
+
+            var categories = multiple.Read<Category>().ToList();
+
+            return new ProductCategoryVM
+            {
+                Products = products,
+                Categories = categories
+            };
+        }
     }
 }
